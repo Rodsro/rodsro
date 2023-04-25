@@ -1,16 +1,44 @@
-### Hi there 👋
+### Olá!👋 Sou o Rodrigo, tudo tranquilo?
+<h2 dir="auto"></h2>
 
-<!--
-**Rodsro/rodsro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+💬 Um pouco sobre mim...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou engenheiro e matemático. Atuei na área de vendas de imóveis há mais de 4 anos e com essa experiência adquiri várias 'soft skills'. Atualmente busco minha primeira oportunidade para ingressar de vez nessa carreira e trilhar meu caminho.
+
+Comecei a estudar programação no meio de 2021 com o Python, apenas por curiosidade, e acabei me envolvendo de uma maneira que até hoje continuo estudando, passando por Javascript, Java, Spring, MySQL. Atualmente estudando Data Science e Machine Learning.... e sempre ávido por conhecimento! 
+
+
+<h2 dir="auto"></h2>
+
+
+📫 Onde me encontrar...
+<div dir="auto"> 
+  <br>
+  <a href="mailto:rodsro.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="max-width: 100%;"></a>
+  <a href="https://www.linkedin.com/in/rodrigo-oliveira-rods/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="max-width: 100%;"></a> 
+  <a href="https://instagram.com/rodsro"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="max-width: 100%;"></a>
+  <a href="https://twitter.com/rods_ro"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" style="max-width: 100%;"></a>
+</div>
+<h2 dir="auto"></h2>
+
+<h3>💻 Tecnologias
+</br></br>
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="Python" title="Python" width="60" height="60" style="max-width: 100%;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML" title="HTML" width="60" height="60" style="max-width: 100%;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="CSS" title="CSS" width="60" height="60" style="max-width: 100%;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Javascript" title="Javascript" width="60" height="60" style="max-width: 100%;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java" title="Java" width="60" height="60" style="max-width: 100%;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg" alt="Kotlin" title="Kotlin" width="60" height="60" style="max-width: 100%;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" title="MySQL" width="60" height="60" style="max-width: 100%;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" alt="Spring" title="Spring" width="60" height="60" style="max-width: 100%;">
+  
+  
+        
+</div>
+
+
+
+
+</h3>
