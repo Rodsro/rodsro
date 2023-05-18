@@ -4,9 +4,9 @@
 
 💬 Um pouco sobre mim...
 
-Sou engenheiro e professor de matemática. Atuei na área de vendas de imóveis há mais de 4 anos e com essa experiência adquiri várias 'soft skills'. Atualmente busco minha primeira oportunidade para ingressar de vez nessa carreira e trilhar meu caminho.
+Sou engenheiro e professor de matemática. Atuei na área de vendas de imóveis por mais de 4 anos e com essa experiência adquiri várias 'soft skills'. Atualmente busco minha primeira oportunidade para ingressar de vez nessa carreira e trilhar meu caminho.
 
-Comecei a estudar programação no meio de 2021 com o Python, apenas por curiosidade, e acabei me envolvendo de uma maneira que até hoje continuo estudando, passando por Javascript, Java, Spring, MySQL. Atualmente estudando Data Science e Machine Learning.... e sempre ávido por conhecimento! 
+Comecei a estudar programação no meio de 2021 com o Python, apenas por curiosidade, e acabei me envolvendo de uma maneira que até hoje continuo estudando, passando por Javascript, Java, Spring, MySQL, entre outros. Atualmente estudando Data Science e Machine Learning, além de continuar estudando Java.... e sempre ávido por conhecimento! 
 
 
 <h2 dir="auto"></h2>
